@@ -1,5 +1,9 @@
+# 30 Days of Microsoft Graph - Try It Out
 
-# Contributing
+The files in this repo correspond to the daily
+Try It Out exercises from the [30 Days of Microsoft Graph](https://aka.ms/30DaysMSGraph) blog series.  Each day has a corresponding Markdown file consisting of resource links, hands-on exercises, or sample projects.
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
