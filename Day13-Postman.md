@@ -1,4 +1,4 @@
-# [Day 13 - Postman to make Microsoft Graph requests](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-13-postman-to-make-microsoft-graph-requests)
+# [Day 13 - Postman to make Microsoft Graph requests](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-13-postman-to-make-microsoft-graph-calls)
 
 Using Postman try below Microsoft Graph API calls:
 
