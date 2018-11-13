@@ -1,4 +1,4 @@
-# [Day 12 - Authentication and authorization scenarios](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-12-authentication-scenarios)
+# [Day 12 - Authentication and authorization scenarios](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-12-authentication-and-authorization-scenarios)
 
 You can try the authorization code grant flow out using your browser and [Postman](https://www.getpostman.com/apps).  If you are not familiar with Postman or similar REST endpoint development tools feel free to revisit these exercises after you've gone through tomorrow's post for Day 13.
 
