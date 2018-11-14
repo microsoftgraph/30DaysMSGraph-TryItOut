@@ -29,7 +29,7 @@
 
 1. Assuming you got a list of your direct reports, now you can build another batch request to check track their out of office settings. Below is a sample batch request.  Be sure to replace \<userID1@tenant\>, etc. with the actual user UPN values returned from above query  Ex. john@contoso.com.
 
-    ```json	
+    ```json
     {
         "requests": [
             {
