@@ -1,1 +1,0 @@
-# [Day 22 - ](https://developer.microsoft.com/en-us/graph/blogs/)

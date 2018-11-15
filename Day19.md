@@ -1,1 +1,0 @@
-# [Day 19 - ](https://developer.microsoft.com/en-us/graph/blogs/)
