@@ -1,0 +1,1 @@
+# [Day 30 - ](https://developer.microsoft.com/en-us/graph/blogs/)
