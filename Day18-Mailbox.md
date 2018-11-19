@@ -1,4 +1,4 @@
-# Day 18 - Use Case: Update Exchange Online mailbox
+# [Day 18 - Use Case: Update Exchange Online mailbox](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-18-use-case-update-user-mailbox-settings/)
 
 Navigate to the [dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) repo.  Do one (or both) of the following:
 
