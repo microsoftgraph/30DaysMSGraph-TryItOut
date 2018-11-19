@@ -1,4 +1,4 @@
-# Day 19 - Use Case: Assign Permissions using Unified Groups
+# [Day 19 - Use Case: Assign Permissions using Unified Groups](https://developer.microsoft.com/en-us/graph/blogs/30daysmsgraph-day-19-use-case-assign-permissions-using-unified-groups/)
 
 Navigate to the [dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) repo.  Do one (or both) of the following:
 
