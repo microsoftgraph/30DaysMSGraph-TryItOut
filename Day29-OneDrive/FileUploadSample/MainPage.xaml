@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="FileUploadSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FileUploadSample"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <RelativePanel>
+        <RelativePanel RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.AlignVerticalCenterWithPanel="True">
+            <CheckBox x:Name="uploadToSharePointCheckBox" Margin="10,10,10,10">Upload to SharePoint?</CheckBox>
+            <Button x:Name="uploadSmallFileButton" Margin="10,10,10,10" Click="uploadSmallFileButton_Click" RelativePanel.Below="uploadToSharePointCheckBox" RelativePanel.AlignHorizontalCenterWithPanel="True">Upload small file</Button>
+            <Button x:Name="uploadLargeFileButton" Margin="10,10,10,10" Click="uploadLargeFileButton_Click" RelativePanel.Below="uploadSmallFileButton" RelativePanel.AlignHorizontalCenterWithPanel="True">Upload large file</Button>
+            <TextBlock x:Name="statusTextBlock" Margin="10,10,10,10" RelativePanel.Below="uploadLargeFileButton" RelativePanel.AlignHorizontalCenterWithPanel="True" />
+        </RelativePanel>
+    </RelativePanel>
+</Page>
